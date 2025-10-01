@@ -89,6 +89,7 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
+if and elif mean different things so know when to use them!
 
 
 
