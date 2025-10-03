@@ -1,7 +1,7 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
+# NAME: Olivia Mincer
+# DATE: 10/3/25
 # BRIEF DESCRIPTION:  
 
 
